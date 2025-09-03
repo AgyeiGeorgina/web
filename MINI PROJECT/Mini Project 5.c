@@ -24,6 +24,7 @@ int main(int argc, char *argv[]) {
 						
 						case'E':
 							printf("Drive safely\n");
+			             break;
 							
 							default:
 								printf("Invalid input.Please enter R,Y,G,or E \n");
@@ -32,3 +33,4 @@ int main(int argc, char *argv[]) {
 	
 	return 0;
 }
+
